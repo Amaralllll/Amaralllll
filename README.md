@@ -1,5 +1,5 @@
  ## Olá, Aqui quem fala é Filipe Amaral 👋
 
-- Graduando em Engenharia Civil
+- Graduado em Engenharia Civil
 - Projeto de pesquisa baseado em python
 - Natural de Piren[opolis - GO
